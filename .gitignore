@@ -1,1 +1,3 @@
 datasets/data/practice
+*.pyc
+*.hdf5
